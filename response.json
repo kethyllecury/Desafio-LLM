@@ -1,0 +1,41 @@
+﻿{
+    "resposta_completa":  {
+                              "id":  "gen-1748223747-EwFLGLhN7FsxgBSC8q36",
+                              "provider":  "OpenAI",
+                              "model":  "openai/gpt-4o-mini",
+                              "object":  "chat.completion",
+                              "created":  1748223747,
+                              "choices":  [
+                                              {
+                                                  "logprobs":  null,
+                                                  "finish_reason":  "stop",
+                                                  "native_finish_reason":  "stop",
+                                                  "index":  0,
+                                                  "message":  {
+                                                                  "role":  "assistant",
+                                                                  "content":  "A capital do Brasil ?? Bras??lia. Ela foi inaugurada em 21 de abril de 1960 e foi planejada para ser a nova capital do pa??s, com o objetivo de promover o desenvolvimento do interior e reduzir a concentra????o populacional nas capitais costeiras.",
+                                                                  "refusal":  null,
+                                                                  "reasoning":  null
+                                                              }
+                                              }
+                                          ],
+                              "system_fingerprint":  "fp_54eb4bd693",
+                              "usage":  {
+                                            "prompt_tokens":  14,
+                                            "completion_tokens":  53,
+                                            "total_tokens":  67,
+                                            "prompt_tokens_details":  {
+                                                                          "cached_tokens":  0
+                                                                      },
+                                            "completion_tokens_details":  {
+                                                                              "reasoning_tokens":  0
+                                                                          }
+                                        }
+                          },
+    "modelo":  "openai/gpt-4o-mini",
+    "dataHora":  "2025-05-25 22:42:34",
+    "resposta":  "A capital do Brasil ?? Bras??lia. Ela foi inaugurada em 21 de abril de 1960 e foi planejada para ser a nova capital do pa??s, com o objetivo de promover o desenvolvimento do interior e reduzir a concentra????o populacional nas capitais costeiras.",
+    "id_resposta":  "gen-1748223747-EwFLGLhN7FsxgBSC8q36",
+    "uso_tokens":  67,
+    "pergunta":  "Qual é a capital do Brasil?"
+}
